@@ -10,7 +10,6 @@
 - 🪲 I'm a QA Engineer - I look for bugs, document them, describe the risks, and help avoid them in the future.
 - 📜 Write and Document Manual tests across with **ISTQB.**
 - 🧠 Practising with **Python and Java - Automated Testing.**
-- 🎌 Finished the "Netology Education - QA Engineering with Java", "Codeacademy - Java and Python", and "Udemy - QA Tests with Python".
 - ❤️‍🔥 I’m looking to collaborate on Testing / Coding
 - 📭 How to reach me an email: "illyaerokhin@gmail.com", and other social networks down below.
 
