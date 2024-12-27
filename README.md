@@ -23,12 +23,6 @@
   
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+projects:)](https://git.io/typing-svg)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ilya-Erokhin&repo=AlfaBankTourProject)](https://github.com/Ilya-Erokhin/AlfaBankTourProject)
-
-#
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+Top+Langs:)](https://git.io/typing-svg)
 
 
