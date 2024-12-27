@@ -7,10 +7,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Erokhin)](https://git.io/streak-stats)
 
 
-- 🪲 I'm a QA Engineer - I look for bugs, document them, describe the risks, and help avoid them in the future.
-- 📜 Write and Document Manual tests across with **ISTQB.**
-- 🧠 Practising with **Python and Java - Automated Testing.**
-- ❤️‍🔥 I’m looking to collaborate on Testing / Coding
+- 🪲 I'm a Python Enthusiast (AQA, Web3, Back-Dev) - I am constantly developing in something new, while improving what I have learned.
+- 📜 Good with documentation
+- 🧠 Commercial experience with **Python** from **2023**
+- ❤️‍🔥 I’m looking to collaborate on Coding :)
 - 📭 How to reach me an email: "illyaerokhin@gmail.com", and other social networks down below.
 
 
@@ -20,17 +20,7 @@
 <a href="https://t.me/IllyaErokhinn" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt="IllyaErokhinn" height="60" width="70" /></a>
 <a href="https://twitter.com/illyaerokhin" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="illyaerokhin" height="60" width="70" /></a>
   </p>
-
-#
   
-### Here you can see my projects:
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+projects:)](https://git.io/typing-svg)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ilya-Erokhin&repo=App-RestAPI-Project)](https://github.com/Ilya-Erokhin/App-RestAPI-Project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ilya-Erokhin&repo=AcceptanceAndBrowsrewAuto)](https://github.com/Ilya-Erokhin/AcceptanceAndBrowsrewAuto)
-
 #
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+projects:)](https://git.io/typing-svg)
