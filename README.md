@@ -2,7 +2,7 @@
 #
 ![](https://komarev.com/ghpvc/?username=Ilya-Erokhin)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+a+QA+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Engineer+with+considerable+experience)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Erokhin)](https://git.io/streak-stats)
 
