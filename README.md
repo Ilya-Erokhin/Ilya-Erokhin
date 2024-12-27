@@ -7,7 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Erokhin)](https://git.io/streak-stats)
 
 
-- 🪲 I'm a Python Enthusiast (AQA, Web3, Back-Dev) - I am constantly developing in something new, while improving what I have learned.
+- 🐍 I'm a Python Enthusiast (AQA, Web3, Back-Dev) - I am constantly developing in something new, while improving what I have learned.
 - 📜 Good with documentation
 - 🧠 Commercial experience with **Python** from **2023**
 - ❤️‍🔥 I’m looking to collaborate on Coding :)
